@@ -1,5 +1,5 @@
 theme = "soho"
-baseurl = "https://example.com/"
+baseurl = "https://github.com/meggmaclean/git-web-site.git"
 languageCode = "en"
 title = "Meg Graham MacLean"
 DefaultContentLanguage = "en"
