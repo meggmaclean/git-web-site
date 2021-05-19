@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Meg Graham MacLean</title>
+    <link>https://meggmaclean.github.io/git-web-site/</link>
+    <description>Recent content on Meg Graham MacLean</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://meggmaclean.github.io/git-web-site/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://meggmaclean.github.io/git-web-site/about/</link>
+      <pubDate>Tue, 18 May 2021 00:00:00 -0400</pubDate>
+      
+      <guid>https://meggmaclean.github.io/git-web-site/about/</guid>
+      <description>This is a GitHub page to link to my code!</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://meggmaclean.github.io/git-web-site/pubs/</link>
+      <pubDate>Tue, 18 May 2021 00:00:00 -0400</pubDate>
+      
+      <guid>https://meggmaclean.github.io/git-web-site/pubs/</guid>
+      <description>Google Scholar</description>
+    </item>
+    
+  </channel>
+</rss>

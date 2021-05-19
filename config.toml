@@ -1,5 +1,5 @@
 theme = "soho"
-baseurl = "https://github.com/meggmaclean/git-web-site.git"
+baseurl = "https://meggmaclean.github.io/git-web-site/"
 languageCode = "en"
 title = "Meg Graham MacLean"
 DefaultContentLanguage = "en"
@@ -8,11 +8,12 @@ summarylength = 10
 enableEmoji = true
 paginate = 5
 ignoreErrors = ["error-remote-getjson"]
+publishDir = "docs"
 
 [params]
 title = "Meg Graham MacLean"
-description = "Example Site"
-gravatar = "mgmaclean@umass.edu"
+description = "Quantitative Ecologist"
+#gravatar = "mgmaclean@umass.edu"
 images = ["images/profile.png"]
 profilePicture = "images/profile.png"
 copyright = "Meg Graham MacLean"
